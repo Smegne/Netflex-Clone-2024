@@ -1,0 +1,19 @@
+.headr{
+    background-color: #111;
+    color: #fff;
+   
+}
+.headr ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    align-items: center;
+}
+.header ul li{
+    justify-content: space-between;
+}
+.headr2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
